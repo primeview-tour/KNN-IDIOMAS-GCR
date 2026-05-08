@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" start="node5" hassounds="0" appversion="7.1.10">
+  <panorama id="node5">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-82.1442" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node5" datetime="2026:04:04 15:11:00" source="" longitude="-48.61564100" heading="-82.1442" latitude="-27.37870600" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.18274" title="KNN Idiomas Governador Celso Ramos" pan="10.8397" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node4}"/>
+      <hotspot description="" distance="3.65627" title="KNN Idiomas Governador Celso Ramos" pan="-34.1862" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="226.737" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node8" datetime="2026:04:04 15:08:07" source="" longitude="-48.61566850" heading="226.737" latitude="-27.37868398" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.65627" title="KNN Idiomas Governador Celso Ramos" pan="94.6949" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node5}"/>
+      <hotspot description="" distance="2.65489" title="KNN Idiomas Governador Celso Ramos" pan="396.692" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node4}"/>
+      <hotspot description="" distance="3.72886" title="KNN Idiomas Governador Celso Ramos" pan="322.848" skinid="ht_node" id="Point03" target="$fwd" tilt="0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="154.413" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node6" datetime="2026:04:04 15:05:26" source="" longitude="-48.61570605" heading="154.413" latitude="-27.37868755" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.72886" title="KNN Idiomas Governador Celso Ramos" pan="70.5241" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node8}"/>
+      <hotspot description="" distance="3.45965" title="KNN Idiomas Governador Celso Ramos" pan="319.461" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="156.892" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node1" datetime="2026:04:04 15:02:38" source="" longitude="-48.61571509" heading="156.892" latitude="-27.37871761" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.45965" title="KNN Idiomas Governador Celso Ramos" pan="141.94" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-65.1362" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node4" datetime="2026:04:04 14:54:56" source="" longitude="-48.61567319" heading="-65.1362" latitude="-27.37870749" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.18274" title="KNN Idiomas Governador Celso Ramos" pan="-152.152" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node5}"/>
+      <hotspot description="" distance="3.27958" title="KNN Idiomas Governador Celso Ramos" pan="-242.824" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node7}"/>
+      <hotspot description="" distance="2.65489" title="KNN Idiomas Governador Celso Ramos" pan="-75.1816" skinid="ht_node" id="Point03" target="$fwd" tilt="0" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-28.6722" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node7" datetime="2026:04:04 14:48:39" source="" longitude="-48.61567185" heading="-28.6722" latitude="-27.37873696" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.27958" title="KNN Idiomas Governador Celso Ramos" pan="-26.36" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node4}"/>
+      <hotspot description="" distance="3.10921" title="KNN Idiomas Governador Celso Ramos" pan="79.9523" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="27.2433" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node2" datetime="2026:04:04 14:31:40" source="" longitude="-48.61570169" heading="27.2433" latitude="-27.37874589" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.10921" title="KNN Idiomas Governador Celso Ramos" pan="-44.1322" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node7}"/>
+      <hotspot description="" distance="3.08414" title="KNN Idiomas Governador Celso Ramos" pan="120.944" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node12}"/>
+      <hotspot description="" distance="3.14638" title="KNN Idiomas Governador Celso Ramos" pan="206.057" skinid="ht_node" id="Point03" target="$fwd" tilt="0" url="{node10}"/>
+      <hotspot description="" distance="2.88332" title="KNN Idiomas Governador Celso Ramos" pan="-65.4092" skinid="ht_node" id="Point04" target="$fwd" tilt="0" url="{node3}"/>
+      <hotspot description="" distance="2.81385" title="KNN Idiomas Governador Celso Ramos" pan="29.2543" skinid="ht_node" id="Point05" target="$fwd" tilt="0" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-62.9815" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node9" datetime="2026:04:04 14:11:04" source="" longitude="-48.61570269" heading="-62.9815" latitude="-27.37872060" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="2.81385" title="KNN Idiomas Governador Celso Ramos" pan="-240.971" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-146.246" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node10" datetime="2026:04:04 14:27:21" source="" longitude="-48.61570235" heading="-146.246" latitude="-27.37877418" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.14638" title="KNN Idiomas Governador Celso Ramos" pan="-147.433" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="20.9711" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node12" datetime="2026:04:04 14:16:30" source="" longitude="-48.61573286" heading="20.9711" latitude="-27.37874768" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.08414" title="KNN Idiomas Governador Celso Ramos" pan="-65.3287" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="205.339" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node3" datetime="2026:04:04 14:33:48" source="" longitude="-48.61567252" heading="205.339" latitude="-27.37874709" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="2.88332" title="KNN Idiomas Governador Celso Ramos" pan="292.687" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node2}"/>
+      <hotspot description="" distance="3.08183" title="KNN Idiomas Governador Celso Ramos&#xa;" pan="27.7996" skinid="ht_node" id="Point02" target="$fwd" tilt="0" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" levelingroll="0" leveltilesize="510" width="1520">
+      <level height="1520" width="1520" preload="0" predecode="0"/>
+      <level height="760" width="760" preload="0" predecode="0"/>
+      <level height="380" width="380" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="34.3266" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="KNN Idiomas Governador Celso Ramos&#xa;" copyright="" customnodeid="" tags="Tratadas" comment="" nodeid="node11" datetime="2026:04:04 14:37:45" source="" longitude="-48.61567118" heading="34.3266" latitude="-27.37877478" info=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" textalpha="1" backgroundalpha="1" background="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" distance="3.08183" title="KNN Idiomas Governador Celso Ramos" pan="36.7872" skinid="ht_node" id="Point01" target="$fwd" tilt="0" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="0" blendtime="1" type="crossdissolve" delay="none" zoomafteroutfov="40" zoomout="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" sensitivity="8" contextfullscreen="1" zoomcentercursor="1" lockedmouse="0" contextvr="1" rubberband="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" author="" comment="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
